@@ -5,16 +5,6 @@
 
 #include <iostream>
 using namespace std;
-template <typename T>
-T add(T a, T b)
-{
-    return a+b ;
-}
-template <typename T1,typename T2, typename T3>
-T3 add(T1 a, T2 b)
-{
-    return a+b ;
-}
 int main()
 {
 	cout<<"\t\t Akash Yadav 200111076 A "<<"\n" ;
